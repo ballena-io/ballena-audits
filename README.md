@@ -1,5 +1,5 @@
 # ballena-audits
-This place is to locate the audits already done to Ballena.io, considering different contracts and scennarios.
+This place is to locate the audits already done to Ballena.io, considering different contracts and scenarios.
 The audits have been conducted in different phases and timings.
 
 <img height="200px" Hspace="30" Vspace="10" align="right" src="images/mythx.png"/>
@@ -13,4 +13,4 @@ The audits have been conducted in different phases and timings.
 
     - External audits - after going live
         Conducted by well known external audit companies to ensure the security level.    
-        Those audit reports will be uploaded hear when done.
+        Those audit reports will be uploaded here when done.
