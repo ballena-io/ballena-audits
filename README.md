@@ -2,7 +2,7 @@
 This place is to locate the audits already done to Ballena.io, considering different contracts and scenarios.
 The audits have been conducted in different phases and timings.
 
-<img height="200px" Hspace="30" Vspace="10" align="right" src="images/mythx.png"/>
+<img height="200px" Hspace="30" Vspace="10" align="center" src="images/mythx.png"/>
 
     - Internal audits - during development phase and just before going live
         All the internal audits have been conducted with different audit tools like MythX and Slither.
