@@ -14,3 +14,7 @@ The audits have been conducted in different phases and timings.
     - External audits - after going live
         Conducted by well known external audit companies to ensure the security level.    
         Those audit reports will be uploaded here when done.
+
+Last BalleMaster.sol internal audit report: (https://github.com/ballena-io/ballena-audits/blob/master/Ballena%20Audit%20Report_BalleMaster_v3.pdf)
+
+Last StratPancakeLpV2.sol internal audit report: (https://github.com/ballena-io/ballena-audits/blob/master/Ballena%20Audit%20Report_StratPancakeLpV2_v3.pdf)
